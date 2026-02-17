@@ -1,15 +1,11 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=homersimpsons&show_icons=true&theme=dark" alt="homersimpsons' GitHub stats"/>
-  </a>
+  <img src="profile/stats.svg" alt="homersimpsons' GitHub stats"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=homersimpsons&layout=compact&theme=dark&langs_count=6" alt="homersimpsons' Top langs"/>
-  </a>
+  <img src="profile/top-langs.svg" alt="homersimpsons' Top langs"/>
 </p>
 
 <!--
